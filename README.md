@@ -1,4 +1,4 @@
-### Beam Sarisa  �✨
+### Beam Sarisa  :penguin:	:woman_technologist:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbeam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
