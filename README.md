@@ -1,9 +1,12 @@
 ### Beam Sarisa  :penguin:	:woman_technologist:
 
-[![Sarisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbeam&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbeam&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbeam&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbeam&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **srbeam/srbeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
