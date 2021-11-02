@@ -1,4 +1,6 @@
-### Beam Sarisa  :penguin:	:woman_technologist:
+## Beam Sarisa  :penguin:	:woman_technologist:
+
+Sarisa Phulakorn 🎄
 
 [![Sarisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbeam&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
