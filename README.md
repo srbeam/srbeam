@@ -2,8 +2,6 @@
 
 Sarisa Phulakorn 🎄
 
-[![Sarisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbeam&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbeam&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
